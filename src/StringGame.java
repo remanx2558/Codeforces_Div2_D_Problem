@@ -1,0 +1,2 @@
+public class StringGame {
+}
